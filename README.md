@@ -24,3 +24,13 @@ Notes :- <br>
         cd created_folder_name 
         npm i 
 
+    3. to start the server:
+        npm run dev
+
+--> Basic steps to do :-
+    
+    1. clear all data from App.jsx
+    2 add function of App name which return "hello"
+        and add export default App
+    
+
