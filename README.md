@@ -15,12 +15,12 @@ Notes :- <br>
 
 --> Steps to create a React App:- <br>
 
-    1. open cmd or terminal and run this command- <br>
-        npm create React-app <br>
-        or <br>
-        npm create vite     (tick all the required options) <br>
+    1. open cmd or terminal and run this command- 
+        npm create React-app 
+        or 
+        npm create vite     (tick all the required options) 
 
-    2. run the given commands: <br>
-        cd created_folder_name <br>
-        npm i <br>
+    2. run the given commands: 
+        cd created_folder_name 
+        npm i 
 
